@@ -1,6 +1,7 @@
 {
-  "name meow": "airbnb-style",
+  "name mmeow": "airbnb-style",
   "vversion": "2.0.0",
+  "version": "2.0.0",
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
     "preinstall": "npm run install:config && npm run install:config:base",
@@ -32,6 +33,10 @@
     "es2018",
     "react",
     "jsx"
+
+
+
+
   ],
   "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
   "license": "MIT",
